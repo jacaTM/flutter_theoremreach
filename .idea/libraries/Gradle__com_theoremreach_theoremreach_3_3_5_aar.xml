@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theoremreach:theoremreach:3.3.5@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/869e6d594e49c4fd7f61ba4a2bd883b8/jetified-theoremreach-3.3.5/jars/libs/unity.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/869e6d594e49c4fd7f61ba4a2bd883b8/jetified-theoremreach-3.3.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
