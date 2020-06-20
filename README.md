@@ -4,7 +4,7 @@ Non-official Flutter plugin for Theorem Reach.
 Feel free to help :)
 
 ## Getting Started
-Initialize the TheoremReach plugin with a API token and a User ID.
+Initialize the TheoremReach plugin with an API token and an User ID.
 
 ```dart
 FlutterTheoremreach().init(apiToken: 'yourtoken', userId: 'youruserid');
