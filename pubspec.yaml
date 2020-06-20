@@ -1,7 +1,7 @@
 name: fluttertheoremreach
 description: Non-official Flutter plugin for Theorem Reach.
 version: 0.0.1
-homepage: https://github.com/jacaTM/flutter_theoremreach
+homepage: https://github.com/jacaTM/fluttertheoremreach
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
